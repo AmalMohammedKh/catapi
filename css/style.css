@@ -1,0 +1,73 @@
+.my-cat-img{
+	width:100%;
+}
+
+.header-banner{
+	background: url(../imgs/cat.jpg) center center;
+    background-repeat: no-repeat;
+    margin: 0;
+    background-size: 100% auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+	background-size: cover;
+	
+	margin-bottom: 100px;
+}
+
+.header-banner h1{
+	padding: 100px;
+}
+
+
+.header-nav{
+	background-color: #fcc32a;
+	margin: 0;
+	padding:10px 100px;
+	border-bottom: 5px solid #5e5e5e;
+}
+
+.header-nav a{
+	color: #5e5e5e;
+	margin: 0;
+}
+
+.test p{
+	padding: 20px;
+    background-color: #fcc32a;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.view-all-img{
+	width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+
+.submit-btn{
+	width: 100%;
+    padding: 10px;
+	margin: 20px auto;
+	background-color: #fcc32a;
+	color: #5e5e5e;
+	text-align: center;
+    font-size: 20px;
+	font-weight: bold;
+	border: 0;
+}
+
+.submit-btn:hover{
+	width: 100%;
+    padding: 10px;
+	margin: 20px auto;
+	color: #fcc32a;
+	background-color: #5e5e5e;
+	text-align: center;
+    font-size: 20px;
+	font-weight: bold;
+	border: 0;
+}
